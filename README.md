@@ -10,3 +10,8 @@ Release: For most Marlin users. Select the version that matches the Marlin versi
 Bugfix: For users compiling the bugfix branch of Marlin.
 
 Import: For developers maintaining the Configuration examples.
+
+
+This is a fork of the Marlin 2.0 firmware, trying to compile for ender3 with BTT skr Mini V2.0
+
+Use at your own risk
